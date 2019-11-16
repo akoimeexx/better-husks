@@ -1,0 +1,12 @@
+{
+    "pack": {
+        "pack_format": 4,
+        "description": {
+            "text":"Better Husks Datapack for Minecraft 1.14.4+\nAllows zombies and drowned to be converted to husks, along with providing a renewable source of sand"
+        }, 
+        "depends": "BiomesScanner.Datapack.zip", 
+        "author": "akoimeexx", 
+        "version": "1.1.8", 
+        "url": "http://blocks.akoimeexx.com/datapacks/better-husks/"
+    }
+}
